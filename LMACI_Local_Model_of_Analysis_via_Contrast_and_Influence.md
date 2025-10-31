@@ -1,7 +1,7 @@
 # LMACI - Local Model of Analysis via Contrast and Influence
 
 **Document Creation Date:** June 26, 2025
-**Author:** Immanuel Bokkey
+**Author:** Imaru/k-Emannuel-p
 **Contact E-mail:** KeplerDevelopment.help@gmail.com
 
 ---
@@ -18,7 +18,7 @@ LMACI operates through an "analysis via contrast," which involves measuring how 
 
 LMACI (Local Model of Analysis via Contrast and Influence) is an AI text analysis model developed for efficient, local textual analysis. Its function is to identify textual relationships from any text, in any language, without prior training or an internet connection, and to do so efficiently.
 
-Its creation began in February 2025, when I (Immanuel) was trying to create an algorithm capable of identifying the central words in a sentence, in any language, based solely on an embeddings file. I wanted this to build an AI that could generate natural and fluent text (which led to the birth of MAM — Markov Attention Model — described in the document “Attention, Markov! MAM"]). After a month of planning, simplifying, and testing this system, I had a very interesting idea that became the foundation of what is now LMACI: **AS**.
+Its creation began in February 2025, when I (Imaru) was trying to create an algorithm capable of identifying the central words in a sentence, in any language, based solely on an embeddings file. I wanted this to build an AI that could generate natural and fluent text (which led to the birth of MAM — Markov Attention Model — described in the document “Attention, Markov! MAM"]). After a month of planning, simplifying, and testing this system, I had a very interesting idea that became the foundation of what is now LMACI: **AS**.
 
 ## AS - Attention and Synthesis
 
